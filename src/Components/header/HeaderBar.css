@@ -1,0 +1,25 @@
+/* CSS for the Header Bar */
+.header {
+    background-color: #bfb0b0;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    height: 60px;
+    width: 97%;
+}
+
+.header-actions button {
+    background-color: #f00;
+    /* Red color for the button, you can customize it */
+    color: #fff;
+    height: 40px;
+    margin-right: 20px;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Adjust the styles as needed for your layout and design */
